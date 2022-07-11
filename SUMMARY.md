@@ -1,9 +1,10 @@
 # Table of contents
 
-* [NAODA Introduction](README.md)
-* [Roadmap](roadmap.md)
-* [Tokenomics](tokenomics.md)
-* [Glossary](glossary.md)
+* [INTRODUCTION](README.md)
+  * [NAODA](introduction/naoda.md)
+  * [Roadmap](introduction/roadmap.md)
+  * [Tokenomics](introduction/tokenomics.md)
+  * [Glossary](introduction/glossary.md)
 
 ## GAMES
 
@@ -14,9 +15,17 @@
 
 * [MOVIE DAO](movies/movie-dao.md)
 
-## INSTRUCTIONS
+## GUIDE
 
-* [Connect Metamask to NAODA](instructions/connect-metamask-to-naoda.md)
+* [Getting Started](guide/getting-started.md)
+* [How to Set Up Metamask](guide/how-to-set-up-metamask.md)
+* [How to Change Tokens](guide/how-to-change-tokens.md)
+* [How to Sell NFTs](guide/how-to-sell-nfts.md)
+
+## ABOUT
+
+* [Team](about/team.md)
+* [Partner](about/partner.md)
 
 ## LINKS
 
